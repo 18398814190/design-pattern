@@ -4,7 +4,7 @@ package com.huawei.pattern.singleton;
  * @author wujinpeng
  * @version 1.0
  * @date 2024/8/14 20:44
- * @description
+ * @description 单例模式
  */
 public class SingletonDemo {
     public static void main(String[] args) {
